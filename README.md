@@ -1,4 +1,4 @@
-# Mock Backend Setup
+# Mock Backend Setup- EC2 instance
 
 The project statement was to setup a backend mock to an EC2 instance. For doing this the following steps need to be followed:
 
